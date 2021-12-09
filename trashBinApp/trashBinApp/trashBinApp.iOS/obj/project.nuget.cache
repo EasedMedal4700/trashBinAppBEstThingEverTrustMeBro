@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "59q7uG8am0aip1YDkEV8/hDF/w5kH/IRd51vSfNyDfimGZSUEJsMwXIFgxvcXp5CWK2Q1NiS02xzwWS1FS6YdQ==",
+  "success": true,
+  "projectFilePath": "F:\\visual_studio_projects_github\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp\\trashBinApp.iOS\\trashBinApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
