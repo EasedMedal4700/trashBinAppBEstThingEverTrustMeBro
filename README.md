@@ -1,0 +1,2 @@
+# trashBinAppBEstThingEverTrustMeBro
+ best app ever!!!
