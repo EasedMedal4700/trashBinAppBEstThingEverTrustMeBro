@@ -982,20 +982,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cowli\\.nuget\\packages\\": {}
+    "C:\\Users\\fquaa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp.iOS\\trashBinApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp.iOS\\trashBinApp.iOS.csproj",
       "projectName": "trashBinApp.iOS",
-      "projectPath": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp.iOS\\trashBinApp.iOS.csproj",
-      "packagesPath": "C:\\Users\\Cowli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp.iOS\\obj\\",
+      "projectPath": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp.iOS\\trashBinApp.iOS.csproj",
+      "packagesPath": "C:\\Users\\fquaa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Cowli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fquaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1008,8 +1008,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp\\trashBinApp.csproj": {
-              "projectPath": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp\\trashBinApp.csproj"
+            "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp\\trashBinApp.csproj": {
+              "projectPath": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp\\trashBinApp.csproj"
             }
           }
         }

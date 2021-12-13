@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98f2e294-3c07-44ab-91ee-1e552acf9961": {
+      "ProjectGuid": "98f2e294-3c07-44ab-91ee-1e552acf9961",
+      "DisplayName": "trashBinApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

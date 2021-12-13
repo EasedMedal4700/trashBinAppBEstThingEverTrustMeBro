@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Z5EL4ddHFqJD7OLQZ34QVv4/5Ox3YlBQrtBVtVEE8oWIyd0B357aXTu5tooc9WTDDzZCibuUGHuFa0Apxk+2vA==",
+  "dgSpecHash": "zQkWRoSHo9/XK6xuZcF+BryVGbGJdJdGhrn25Yhkh+ikQaMMKxShHKt+1XDgSfFVF1nWMTzetwlVjBR7X7fCRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp\\trashBinApp.csproj",
+  "projectFilePath": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp\\trashBinApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Cowli\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Cowli\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Cowli\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Cowli\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Cowli\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\fquaa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\fquaa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\fquaa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\fquaa\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\fquaa\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

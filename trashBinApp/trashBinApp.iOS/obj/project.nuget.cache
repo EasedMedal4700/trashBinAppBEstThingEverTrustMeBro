@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3p/zzIL1QVfn7M0mCxvJ6smMzZ6brGuGeJdNZyEhxX5YboNeznGs+BH/em5Xhl9Bp/j9z4XRjjRjjW6Yu24pmQ==",
+  "dgSpecHash": "dcex0ZMwGT+NeeRqXJxIB8AouSZxka+9omoPt6jgK4ZCiZbf5amlzci77SHTuy0Tgeru8LMCMG3GJfOEJPpQ/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp.iOS\\trashBinApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp.iOS\\trashBinApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Cowli\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Cowli\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Cowli\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\fquaa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\fquaa\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\fquaa\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

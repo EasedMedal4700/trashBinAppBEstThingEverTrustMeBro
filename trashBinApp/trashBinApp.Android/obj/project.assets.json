@@ -3172,20 +3172,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cowli\\.nuget\\packages\\": {}
+    "C:\\Users\\fquaa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp.Android\\trashBinApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp.Android\\trashBinApp.Android.csproj",
       "projectName": "trashBinApp.Android",
-      "projectPath": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp.Android\\trashBinApp.Android.csproj",
-      "packagesPath": "C:\\Users\\Cowli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp.Android\\obj\\",
+      "projectPath": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp.Android\\trashBinApp.Android.csproj",
+      "packagesPath": "C:\\Users\\fquaa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Cowli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fquaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3198,8 +3198,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp\\trashBinApp.csproj": {
-              "projectPath": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp\\trashBinApp.csproj"
+            "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp\\trashBinApp.csproj": {
+              "projectPath": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp\\trashBinApp.csproj"
             }
           }
         }

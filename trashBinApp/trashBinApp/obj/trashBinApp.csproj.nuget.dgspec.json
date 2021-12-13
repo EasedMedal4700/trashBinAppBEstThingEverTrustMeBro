@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp\\trashBinApp.csproj": {}
+    "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp\\trashBinApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp\\trashBinApp.csproj": {
+    "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp\\trashBinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp\\trashBinApp.csproj",
+        "projectUniqueName": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp\\trashBinApp.csproj",
         "projectName": "trashBinApp",
-        "projectPath": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp\\trashBinApp.csproj",
-        "packagesPath": "C:\\Users\\Cowli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cowli\\source\\repos\\trashBinApp\\trashBinApp\\obj\\",
+        "projectPath": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp\\trashBinApp.csproj",
+        "packagesPath": "C:\\Users\\fquaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fquaa\\Documents\\codeShit\\trashBinAppBEstThingEverTrustMeBro\\trashBinApp\\trashBinApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Cowli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fquaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
