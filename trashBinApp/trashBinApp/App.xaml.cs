@@ -2,6 +2,7 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+
 namespace trashBinApp
 {
     public partial class App : Application
@@ -11,6 +12,7 @@ namespace trashBinApp
             InitializeComponent();
 
             MainPage = new MainPage();
+
         }
 
         protected override void OnStart()

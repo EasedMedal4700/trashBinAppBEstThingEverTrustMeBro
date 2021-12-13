@@ -1,0 +1,15 @@
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\bin\Debug\netstandard2.0\trashBinApp.deps.json
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\bin\Debug\netstandard2.0\trashBinApp.dll
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\bin\Debug\netstandard2.0\ref\trashBinApp.dll
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\bin\Debug\netstandard2.0\trashBinApp.pdb
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\obj\Debug\netstandard2.0\trashBinApp.csproj.AssemblyReference.cache
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\obj\Debug\netstandard2.0\trashBinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\obj\Debug\netstandard2.0\trashBinApp.AssemblyInfoInputs.cache
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\obj\Debug\netstandard2.0\trashBinApp.AssemblyInfo.cs
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\obj\Debug\netstandard2.0\trashBinApp.csproj.CoreCompileInputs.cache
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\obj\Debug\netstandard2.0\trashBinApp.dll
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\obj\Debug\netstandard2.0\ref\trashBinApp.dll
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\obj\Debug\netstandard2.0\trashBinApp.pdb
+C:\Users\fquaa\Documents\codeShit\trashBinAppBEstThingEverTrustMeBro\trashBinApp\trashBinApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
